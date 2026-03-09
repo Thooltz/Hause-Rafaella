@@ -1,0 +1,14 @@
+{
+  "name": "hause-rafaella",
+  "version": "1.0.0",
+  "description": "Site de divulgação para aluguel de temporada - Praia Grande Temporada Hause Rafaella",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
